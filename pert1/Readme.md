@@ -29,19 +29,19 @@
 - lakukan perintah git add . git commit -m "belajar" git push -u origin main
 
 ## FUNGSI DASAR COMMAND LINUX:
-- ls			    Mencantumkan konten direktori
-- pwd			    Menampilkan path direktori kerja saat ini
-- cd			    Mengubah direktori kerja
-- mkdir			    Membuat direktori baru
-- rm			    Menghapus file
-- cp			    Menyalin file dan direktori, termasuk isinya
-- mv			    Memindahkan atau mengganti nama file dan direktori
-- touch			    Membuat file kosong baru
-- file			    Memeriksa jenis file
-- zip and unzip	    Membuat dan mengekstrak arsip ZIP
-- tar			    Mengarsipkan file tanpa kompresi dalam format TAR
-- nano, vi, and jed	Mengedit file dengan editor teks
-- cat			    Mencantumkan, menggabungkan, dan menulis isi file sebagai output standar
+- ls			    :Mencantumkan konten direktori
+- pwd			    :Menampilkan path direktori kerja saat ini
+- cd			    :Mengubah direktori kerja
+- mkdir			    :Membuat direktori baru
+- rm			    :Menghapus file
+- cp			    :Menyalin file dan direktori, termasuk isinya
+- mv			    :Memindahkan atau mengganti nama file dan direktori
+- touch			    :Membuat file kosong baru
+- file			    :Memeriksa jenis file
+- zip and unzip	    :Membuat dan mengekstrak arsip ZIP
+- tar			    :Mengarsipkan file tanpa kompresi dalam format TAR
+- nano, vi, and jed	:Mengedit file dengan editor teks
+- cat			    :Mencantumkan, menggabungkan, dan menulis isi file sebagai output standar
 - grep			    :Mencari string di dalam file
 - sed			    :Menemukan, mengganti, atau menghapus pola dalam file
 - head			    :Menampilkan sepuluh baris pertama file
