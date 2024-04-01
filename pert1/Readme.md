@@ -1,12 +1,12 @@
 # kalo udah ada si folder belajar lanjut:
 - ls
 - cd belajar
-- 1s
+- ls
 - cd pert2
 - code.
-- 1s buat munculin Readme.md
+- ls buat munculin Readme.md
 - cd ..
-- 1s
+- ls
 - code ke vscode
 
 ## TAHAPAN FILE 
